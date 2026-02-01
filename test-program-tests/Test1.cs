@@ -12,7 +12,7 @@ public sealed class Test1
         //Arrange
         String exePath = "C:/src/TEST-Branches-Tutorial/test-program/bin/Debug/net9.0/test-program.exe";
         int delay = 5000;
-        String outputPath = "C:/temp/Georg.txt";
+        String outputPath = "C:/temp/George.txt";
 
         //Act
         System.Diagnostics.Process.Start(exePath);
